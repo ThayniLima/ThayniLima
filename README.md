@@ -6,7 +6,7 @@
 
 ![Thayni GitHub stats](https://github-readme-stats.vercel.app/api?username=ThayniLima&show_icons=true&theme=radical)
 
-## Tecnologias que estou aprendendo
+## Tecnologias que estou usando...
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> 
