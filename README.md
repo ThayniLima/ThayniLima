@@ -1,10 +1,13 @@
 ### Olá! Me chamo Thayni Lima 😎👋 
 
-🏅Formada em Análise e Desenvolvimento de Sistemaa
+🏅Formada em Análise e Desenvolvimento de Sistema
 
-🎓 Me formei há algum tempo, e agora estou focada em aprimorar minhas habilidades, especialmente na área de Front-End. Atualmente estudando: HTML, CSS, JavaScript, React.js e Electron.
+🎓 Já faz um tempo que me formei, e recentemente decidi voltar aos estudos.
+Tenho me dedicado a aprender mais sobre desenvolvimento Front-End e a aprimorar minhas habilidades nessa área.
 
-📚 Cada dia um passo, cada projeto um aprendido.
+📚 Cada dia um passo, cada projeto um aprendizado.
+
+
 
 
 
@@ -14,14 +17,15 @@
 
 ![Thayni GitHub stats](https://github-readme-stats.vercel.app/api?username=ThayniLima&show_icons=true&theme=radical)
 
-## Tecnologias que estou usando...
+## Tecnologias estudando atualmente...
 
 <div style="display: inline_block"><br/>
-  <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> 
-  <img align="center" alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logohttps:Color=white" /> 
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> 
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
   <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
-  </div><br>
+  <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img align="center" alt="Electron" src="https://img.shields.io/badge/Electron-2C2E3B?style=for-the-badge&logo=electron&logoColor=9FEAF9" />
+</div><br>
+
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThayniLima&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
