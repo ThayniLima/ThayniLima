@@ -1,5 +1,11 @@
 ### Olá! Me chamo Thayni Lima 😎👋 
 
+🏅Formada em Análise e Desenvolvimento de Sistemaa
+
+🎓 Me formei há algum tempo, e agora estou focada em aprimorar minhas habilidades, especialmente na área de Front-End. Atualmente estudando: HTML, CSS, JavaScript, React.js e Electron.
+
+📚 Cada dia um passo, cada projeto um aprendido.
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thayni-lima-0a3b6a235/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?hl=pt-BR#inbox)
 
